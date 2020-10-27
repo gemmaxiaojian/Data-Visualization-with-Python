@@ -1,4 +1,4 @@
-# Data-Visualization-with-Python
+# Matplotlib - Temperature Fluctuation of Ann Arbor City
 
 This project used python to visualize a line graph of the record high and record low temperatures by day of the year over the period 2005-2014 of Anarbor city.
 
