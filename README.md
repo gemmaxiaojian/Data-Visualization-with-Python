@@ -1,4 +1,4 @@
-# Data-Visualization-with-Python#
+# Data-Visualization-with-Python
 
 This project used python to visualize a line graph of the record high and record low temperatures by day of the year over the period 2005-2014 of Anarbor city.
 
