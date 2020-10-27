@@ -15,5 +15,7 @@ The following variables are:
     * TMAX : Maximum temperature (tenths of degrees C)
     * TMIN : Minimum temperature (tenths of degrees C)
 * **value** : data value for element (tenths of degrees C)
-A preview to the rendered chart:
+
+
+#### A preview to the rendered chart:
 ![Preview](WeatherPlotting.png)
